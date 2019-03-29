@@ -3,11 +3,7 @@
   display: none;
 }
 
-#tag-4 {
-  display: none;
-}
-
-#tag-5 {
+.parent>#tag-4{
   display: none;
 }
 /* .tag-1, .tag-2, .tag-2 */
